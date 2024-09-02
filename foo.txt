@@ -1,0 +1,1 @@
+{"pack":{"description":"⫽{fonction:event1,parameter: redstone,count:0}⫻","pack_format":8}}
